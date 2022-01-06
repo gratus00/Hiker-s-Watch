@@ -1,4 +1,4 @@
-package com.example.hikerswatch;
+package com.example.yourlocationsnapshot;
 
 import org.junit.Test;
 
